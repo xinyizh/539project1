@@ -1,0 +1,22 @@
+body{
+    background:lightgrey;
+}
+
+li{
+	display: inline-block;
+	background: white;
+	width: 20%;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+img{
+	width: 50%;
+}
+
+.small{
+	width: 20%;
+}
